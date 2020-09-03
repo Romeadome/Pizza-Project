@@ -1,7 +1,7 @@
 #menuBG {
     background-color:lightblue;
     width: 400px;
-    height: 555px;
+    height: 600px;
     margin: 10px auto;
 }
 
@@ -11,10 +11,10 @@
 }
 
 #totalPrice {
-    width: 200px;
+    width: 220px;
     height: 190px;
     margin: 0 auto;
-    float: right;
+    float: left;
 }
 
 .left {
@@ -26,8 +26,10 @@
 .right {
     width: 200px;
     height: 200px;
-    float: right;
+    float: left;
 }
+
+
 
 #showText {
     width: 200px;
@@ -43,8 +45,8 @@
 }
 
 #btnOrder {
-    margin: 10px 0px 0px 100px;
-    width: 100px;
+    margin: 10px 0px 0px 150px;
+    width: 110px;
     height: 40px;
 }
 
